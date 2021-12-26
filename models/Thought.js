@@ -1,6 +1,5 @@
 const { Schema, model, Types } = require('mongoose');
 const moment = require('moment');
-const { Thought } = require('.');
 
 //Reaction is a subdoc of Thought
 const ReactionSchema = new Schema({
