@@ -17,7 +17,9 @@
   Using Insomnia you can update, delete, and create; users, thoughts and reactions. You can also add and delete friends.
   
   Screencastify showing Users - https://watch.screencastify.com/v/SYIBydHmwZn2436GAsy2
+  
   Screencastify showing Thouhgts - https://watch.screencastify.com/v/cQ4N7zsJiW5uIOSgNvqi
+  
   Screencastify showing Friends - https://watch.screencastify.com/v/LynQnXPVwA0gEDe9xdn3
   
   ## License 
